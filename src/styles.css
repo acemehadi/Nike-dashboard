@@ -1,0 +1,7 @@
+.fade-box {
+  width: 200px;
+  height: 200px;
+  background-color: lightblue;
+  opacity: 0; /* Initial state */
+}
+
